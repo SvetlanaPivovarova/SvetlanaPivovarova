@@ -1,7 +1,6 @@
 <h1 align="center">Svetlana</h1>
 <h3 align="center">FrontEnd Developer</h3>
 
-- ✨ In development since 2020
 - ✨ Completed the Frontend Developer course at Yandex Practicum
 - ✨ Practice writing code and solving exercises on CodeWars
 
@@ -26,7 +25,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" width="50">
   </div>
-<hr>
+  <hr>
+
+  <div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlanaPivovarova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+  <hr>
 
 - ✨ Связаться со мной
 
