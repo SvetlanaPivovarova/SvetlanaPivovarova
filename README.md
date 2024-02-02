@@ -1,5 +1,6 @@
 <h1 align="center">Svetlana</h1>
 <h3 align="center">FrontEnd Developer</h3>
+<br>
 
 - ✨ Completed the Frontend Developer course at Yandex Practicum
 - ✨ Practice writing code and solving exercises on CodeWars
